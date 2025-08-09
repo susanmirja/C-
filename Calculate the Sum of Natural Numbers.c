@@ -1,4 +1,4 @@
-// Sum of Natural Numbers Using for Loop
+x// Sum of Natural Numbers Using for Loop
 #include <stdio.h>
 int main() {
     int n, i, sum = 0;
@@ -13,4 +13,5 @@ int main() {
     printf("Sum = %d", sum);
     return 0;
 }
+
 
